@@ -5,17 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4067e20c-9a88-49d7-8058-a2c1ae144d44" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch/aaap/assignment/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch/aaap/assignment/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch/aaap/assignment/model/Canton.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch/aaap/assignment/model/District.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch/aaap/assignment/model/Model.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch/aaap/assignment/model/PoliticalCommunity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch/aaap/assignment/model/PostalCommunity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch/aaap/assignment/raw/CSVPoliticalCommunity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch/aaap/assignment/raw/CSVPoliticalCommunity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch/aaap/assignment/raw/CSVPostalCommunity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch/aaap/assignment/raw/CSVPostalCommunity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch/aaap/assignment/raw/CSVUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch/aaap/assignment/raw/CSVUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ch/aaap/assignment/ApplicationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ch/aaap/assignment/ApplicationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +32,17 @@
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="ch.aap.assignment" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ch.aap.assignment" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ch.aap.assignment" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
               </path>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />

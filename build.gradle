@@ -1,4 +1,6 @@
 // TODO to add module info
+// only java 16
+
 
 plugins {
     id 'java'
