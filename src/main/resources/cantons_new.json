@@ -1,0 +1,105 @@
+[ {
+  "code" : "TI",
+  "name" : "Ticino",
+  "numOfDistricts" : 8
+}, {
+  "code" : "UR",
+  "name" : "Uri",
+  "numOfDistricts" : 1
+}, {
+  "code" : "BS",
+  "name" : "Basel-Stadt",
+  "numOfDistricts" : 1
+}, {
+  "code" : "AG",
+  "name" : "Aargau",
+  "numOfDistricts" : 11
+}, {
+  "code" : "VD",
+  "name" : "Vaud",
+  "numOfDistricts" : 10
+}, {
+  "code" : "OW",
+  "name" : "Obwalden",
+  "numOfDistricts" : 1
+}, {
+  "code" : "NE",
+  "name" : "Neuchâtel",
+  "numOfDistricts" : 1
+}, {
+  "code" : "JU",
+  "name" : "Jura",
+  "numOfDistricts" : 3
+}, {
+  "code" : "LU",
+  "name" : "Luzern",
+  "numOfDistricts" : 6
+}, {
+  "code" : "BL",
+  "name" : "Basel-Landschaft",
+  "numOfDistricts" : 5
+}, {
+  "code" : "FR",
+  "name" : "Fribourg",
+  "numOfDistricts" : 7
+}, {
+  "code" : "AR",
+  "name" : "Appenzell Ausserrhoden",
+  "numOfDistricts" : 3
+}, {
+  "code" : "SH",
+  "name" : "Schaffhausen",
+  "numOfDistricts" : 6
+}, {
+  "code" : "VS",
+  "name" : "Valais",
+  "numOfDistricts" : 13
+}, {
+  "code" : "ZH",
+  "name" : "Zürich",
+  "numOfDistricts" : 12
+}, {
+  "code" : "GE",
+  "name" : "Genève",
+  "numOfDistricts" : 1
+}, {
+  "code" : "NW",
+  "name" : "Nidwalden",
+  "numOfDistricts" : 1
+}, {
+  "code" : "SO",
+  "name" : "Solothurn",
+  "numOfDistricts" : 10
+}, {
+  "code" : "SZ",
+  "name" : "Schwyz",
+  "numOfDistricts" : 6
+}, {
+  "code" : "GR",
+  "name" : "Graubünden",
+  "numOfDistricts" : 11
+}, {
+  "code" : "GL",
+  "name" : "Glarus",
+  "numOfDistricts" : 1
+}, {
+  "code" : "TG",
+  "name" : "Thurgau",
+  "numOfDistricts" : 5
+}, {
+  "code" : "BE",
+  "name" : "Bern",
+  "numOfDistricts" : 10
+}, {
+  "code" : "SG",
+  "name" : "St. Gallen",
+  "numOfDistricts" : 8
+}, {
+  "code" : "ZG",
+  "name" : "Zug",
+  "numOfDistricts" : 1
+}, {
+  "code" : "AI",
+  "name" : "Appenzell Innerrhoden",
+  "numOfDistricts" : 1
+} ]

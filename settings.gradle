@@ -1,0 +1,4 @@
+
+
+rootProject.name = 'ch.aap.assignment'
+include("Application")

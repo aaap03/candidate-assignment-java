@@ -1,0 +1,27 @@
+code,name,numOfDistricts
+TI,Ticino,8
+UR,Uri,1
+BS,Basel-Stadt,1
+AG,Aargau,11
+VD,Vaud,10
+OW,Obwalden,1
+NE,Neuchâtel,1
+JU,Jura,3
+LU,Luzern,6
+BL,Basel-Landschaft,5
+FR,Fribourg,7
+AR,"Appenzell Ausserrhoden",3
+SH,Schaffhausen,6
+VS,Valais,13
+ZH,Zürich,12
+GE,Genève,1
+NW,Nidwalden,1
+SO,Solothurn,10
+SZ,Schwyz,6
+GR,Graubünden,11
+GL,Glarus,1
+TG,Thurgau,5
+BE,Bern,10
+SG,"St. Gallen",8
+ZG,Zug,1
+AI,"Appenzell Innerrhoden",1
